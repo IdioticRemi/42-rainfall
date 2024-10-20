@@ -1,1 +1,7 @@
-﻿// TODO: A faire :)
+﻿class N {
+public:
+};
+
+int main() {
+
+}
